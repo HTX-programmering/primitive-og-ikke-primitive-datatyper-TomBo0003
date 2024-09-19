@@ -9,6 +9,17 @@ long = 8 bytes
 dub = 8 bytes
 
   OPG 2.2
-bilag: MaxMinValues.pde
+Int Max: 2147483647    Int Min: -2147483648
+Short Max: 32767     Short Min: -32768
+Long Max: 9223372036854775807     Long Min: -9223372036854775808
+Byte Max: 127    Byte Min: -128
+Float Max: 3.4028235E38    Float Min: 1.4E-45
+Double Max: 1.7976931348623157E308    Double Min: 4.9E-324
+Char Max: 65535     Char Min: 0
+Bool Max: true     Bool Min: false
+
+kilde: MaxMinValues.pde
 
   OPG 2.3
+
+
