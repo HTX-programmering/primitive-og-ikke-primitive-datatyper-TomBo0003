@@ -1,0 +1,14 @@
+  OPG 2.1
+int = 4 bytes
+float = 4 bytes
+char = 2 bytes
+bool = 1 byte
+byte = 8 bit
+short = 2 bytes
+long = 8 bytes
+dub = 8 bytes
+
+  OPG 2.2
+bilag: MaxMinValues.pde
+
+  OPG 2.3
