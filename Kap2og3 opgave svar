@@ -1,0 +1,43 @@
+  OPG 2.1
+int = 4 bytes
+float = 4 bytes
+char = 2 bytes
+bool = 1 byte
+byte = 8 bit
+short = 2 bytes
+long = 8 bytes
+dub = 8 bytes
+
+  OPG 2.2
+Int Max: 2147483647    Int Min: -2147483648
+Short Max: 32767     Short Min: -32768
+Long Max: 9223372036854775807     Long Min: -9223372036854775808
+Byte Max: 127    Byte Min: -128
+Float Max: 3.4028235E38    Float Min: 1.4E-45
+Double Max: 1.7976931348623157E308    Double Min: 4.9E-324
+Char Max: 65535     Char Min: 0
+Bool Max: true     Bool Min: false
+
+kilde: MaxMinValues.pde
+
+  OPG 2.3
+der er mere prcition i math.sqrt end math, da den udnytter dubbles som optager mer data men er mere precis
+
+  OPG 3.1
+String str = "dsadadsdasdasdasdassfbsbnsijbtihbjkwtnrhjios3<t54igowngnw4gjnwt4jtnjgjniaigsrvuigrjnigaganjeagijaeinjaenaeingnieiegnigeiuegrage";
+
+println(str.substring(82));
+
+  OPG 3.2
+String str = "dsadadsdasdasdasdassfbsbnsijbtihbjkwtnrhjios3<t54igowngnw4gjnwt4jtnjgjniaigsrvuigrjnigaganjeagijaeinjaenaeingnieiegnigeiuegrage";
+
+println(str.substring(82, 85));
+
+  OPG 3.3 & 3.4
+String str = "dsadadsdasdasdasdassfbsbnsijbtihbjkwtnrhjios3<t54igowngnw4gjnwt4jtnjgjniaigsrvuigrjnigaganjeagijaeinjaenaeingnieiegnigeiuegrage";
+
+println(str.toUpperCase());
+println(str.toLowerCase());
+
+  OPG 3.5
+Hell Naw
