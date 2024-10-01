@@ -24,4 +24,20 @@ kilde: MaxMinValues.pde
 der er mere prcition i math.sqrt end math, da den udnytter dubbles som optager mer data men er mere precis
 
   OPG 3.1
+String str = "dsadadsdasdasdasdassfbsbnsijbtihbjkwtnrhjios3<t54igowngnw4gjnwt4jtnjgjniaigsrvuigrjnigaganjeagijaeinjaenaeingnieiegnigeiuegrage";
 
+println(str.substring(82));
+
+  OPG 3.2
+String str = "dsadadsdasdasdasdassfbsbnsijbtihbjkwtnrhjios3<t54igowngnw4gjnwt4jtnjgjniaigsrvuigrjnigaganjeagijaeinjaenaeingnieiegnigeiuegrage";
+
+println(str.substring(82, 85));
+
+  OPG 3.3 & 3.4
+String str = "dsadadsdasdasdasdassfbsbnsijbtihbjkwtnrhjios3<t54igowngnw4gjnwt4jtnjgjniaigsrvuigrjnigaganjeagijaeinjaenaeingnieiegnigeiuegrage";
+
+println(str.toUpperCase());
+println(str.toLowerCase());
+
+  OPG 3.5
+Hell Naw
